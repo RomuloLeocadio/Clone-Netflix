@@ -1,3 +1,3 @@
 # Projeto-NETFLIX
 
-https://romuloleocadio.github.io/Projeto-netflix/
+https://romuloleocadio.github.io/Clone-Netflix/
